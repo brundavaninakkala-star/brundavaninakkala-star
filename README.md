@@ -3,10 +3,10 @@ Hi, I'm Nakkala Brundavani 👋
 🏫 Rajiv Gandhi University of Knowledge Technologies (RGUKT), Ongole
 📊 Currently exploring Data Analytics and Generative AI
 🛠️ Skills & Technical Interests
-Programming: Python, SQL
+Programming: Python, SQL, HTML, CSS, Power BI, Excel 
 AI & Computing: Artificial Intelligence, Machine Learning
 Engineering: Internet of Things (IoT), Robotics, MATLAB
-Hardware & Embedded Systems: Arduino, Raspberry Pi, Microcontrollers
+Hardware & Embedded Systems: Arduino, Raspberry Pi, Microcontrollers, Micro Processor 
 💼 Internships
 Robotics Internship — Academor
 August 2023 – September 2023
